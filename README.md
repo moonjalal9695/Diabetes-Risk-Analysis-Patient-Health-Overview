@@ -60,7 +60,7 @@ This dashboard helps healthcare stakeholders:
 - Include time-based trend analysis  
 - Implement Power BI Row-Level Security (RLS)  
 - Connect real-time cloud data sources
-https://github.com/moonjalal9695/Diabetes-Risk-Analysis-Patient-Health-Overview/blob/main/dashboard_overview.JPG
+
 - ### Dashboard Overview
 ![Dashboard Overview](https://raw.githubusercontent.com/moonjalal9695/Diabetes-Risk-Analysis-Patient-Health-Overview/main/dashboard_overview.JPG)
 
