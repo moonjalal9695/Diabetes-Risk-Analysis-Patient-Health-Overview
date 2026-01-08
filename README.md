@@ -62,4 +62,4 @@ This dashboard helps healthcare stakeholders:
 - Connect real-time cloud data sources
 
 - ### Dashboard Overview
-![Dashboard Overview](docs/dashboard_screenshots/dashboard_overview.png)
+![Dashboard Overview](docs/dashboard_screenshots/dashboard_overview.JPG)
