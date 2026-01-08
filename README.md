@@ -62,4 +62,5 @@ This dashboard helps healthcare stakeholders:
 - Connect real-time cloud data sources
 https://github.com/moonjalal9695/Diabetes-Risk-Analysis-Patient-Health-Overview/blob/main/dashboard_overview.JPG
 - ### Dashboard Overview
-![Dashboard Overview](docs/dashboard_screenshots/dashboard_overview.JPG)
+![Dashboard Overview](https://raw.githubusercontent.com/moonjalal9695/Diabetes-Risk-Analysis-Patient-Health-Overview/main/dashboard_overview.JPG)
+
